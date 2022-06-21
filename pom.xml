@@ -15,7 +15,7 @@
         <java.version>1.8</java.version>
         <sharding-sphere.version>4.0.0-RC1</sharding-sphere.version>
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
-        <mysql-driver.version>8.0.18</mysql-driver.version>
+        <mysql-driver.version>8.0.28</mysql-driver.version>
         <hikariCP.datasource.version>3.4.1</hikariCP.datasource.version>
     </properties>
 
